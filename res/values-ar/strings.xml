@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  SPDX-FileCopyrightText: The Proton AOSP Project
+  SPDX-FileCopyrightText: TheParasiteProject
+  SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="app_name">خدمة النقر السريع</string>
+    <string name="quick_settings_label">النقر السريع</string>
+    <string name="settings_entry_title">النقر السريع لبدء الإجراءات</string>
+    <string name="settings_entry_summary_on">مفعّل / %1$s</string>
+    <string name="settings_entry_summary_off">معطّل</string>
+    <string name="settings_search_keywords">النقر السريع، النقر الخلفي، نقر، إيماءة، مساعدة، مساعد</string>
+    <string name="setting_enabled_title">استخدام النقر السريع</string>
+    <string name="setting_footer_content">لتنفيذ إجراء، انقر مرتين على ظهر هاتفك قرب المنتصف</string>
+    <string name="setting_sensitivity_title">الحساسية</string>
+    <string name="setting_sensitivity_light">نقرة خفيفة</string>
+    <string name="setting_sensitivity_heavy">نقرة قوية</string>
+    <string name="setting_haptic_intensity_title">شدة الاستجابة اللمسية</string>
+    <string name="setting_haptic_intensity_light">خفيفة</string>
+    <string name="setting_haptic_intensity_strong">قوية</string>
+    <string name="setting_screen_off_title">السماح عند إيقاف الشاشة</string>
+    <string name="setting_screen_off_summary">قد يزيد من التنبيهات الخاطئة</string>
+    <string name="setting_screen_off_blocked_summary">محظور بسبب الإجراء الحالي</string>
+    <string name="setting_action_title">انقر مرتين على ظهر جهازك اللوحي لـ</string>
+    <string name="launch_settings_activity_title">إعدادات النقر السريع</string>
+    <string name="setting_app_selection_help_text">اختر تطبيقًا لفتحه عند النقر مرتين على ظهر جهازك اللوحي. إذا أزلت التطبيق، يتوقف النقر السريع حتى تختار تطبيقًا آخر.</string>
+    <string name="setting_app_selection_help_text_disabled">لاستخدام هذه الميزة، يجب تفعيل النقر السريع أولًا.</string>
+    <string name="setting_app_shortcut_selection_help_text">اختر ما يحدث عند استخدام النقر السريع. يمكنك تغييره لاحقًا في الإعدادات.</string>
+    <string name="setting_app_shortcut_selection_help_text_disabled">@string/setting_app_selection_help_text_disabled</string>
+    <string name="radio_button_extra_widget_a11y_label">إعدادات %1$s</string>
+    <string name="setting_action_launch_summary_no_selection">لم يتم اختيار تطبيق</string>
+    <string name="setting_action_launch_summary_not_installed">التطبيق غير مثبّت</string>
+    <string name="action_screenshot_name">التقاط لقطة شاشة</string>
+    <string name="action_assistant_name">الوصول إلى المساعد الرقمي</string>
+    <string name="action_contextual_search_name">البحث باستخدام محتوى شاشتك</string>
+    <string name="action_silence_call_name">كتم مكالمة واردة</string>
+    <string name="action_media_name">تشغيل الوسائط أو إيقافها مؤقتًا</string>
+    <string name="action_overview_name">عرض التطبيقات الأخيرة</string>
+    <string name="action_notifications_name">عرض الإشعارات</string>
+    <string name="action_camera_name">فتح الكاميرا</string>
+    <string name="action_power_menu_name">فتح قائمة الطاقة</string>
+    <string name="action_mute_name">كتم المكالمات والإشعارات</string>
+    <string name="action_flashlight_name">تبديل المصباح</string>
+    <string name="action_screen_name">تشغيل الشاشة أو إيقافها</string>
+    <string name="action_launch_name">فتح تطبيق</string>
+    <string name="action_screenshot_value">screenshot</string>
+    <string name="action_assistant_value">assistant</string>
+    <string name="action_contextual_search_value">contextual_search</string>
+    <string name="action_silence_call_value">silence_call</string>
+    <string name="action_media_value">media</string>
+    <string name="action_overview_value">overview</string>
+    <string name="action_notifications_value">notifications</string>
+    <string name="action_camera_value">camera</string>
+    <string name="action_power_menu_value">power_menu</string>
+    <string name="action_mute_value">mute</string>
+    <string name="action_flashlight_value">flashlight</string>
+    <string name="action_screen_value">screen</string>
+    <string name="action_launch_value">launch</string>
+    <string name="gesture_detected">تم اكتشاف النقر السريع!</string>
+</resources>
